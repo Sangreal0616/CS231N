@@ -6,3 +6,7 @@
   #SVM.ipynb
   
   #softMax.ipynb
+
+  #two_layer_net.ipynb
+
+  #features.ipynb
