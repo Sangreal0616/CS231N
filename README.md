@@ -27,3 +27,5 @@
   #RNN_Captioning.ipynb
 
   #LSTM_Captioning.ipynb
+
+  #Generative_Adversarial_Networks.ipynb
