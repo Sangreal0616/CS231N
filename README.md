@@ -10,3 +10,19 @@
   #two_layer_net.ipynb
 
   #features.ipynb
+
+# Assignment_2
+  #FullyConnectedNets.ipynb
+
+  #BatchNormalization.ipynb
+
+  #Dropout.ipynb
+
+  #ConvolutionalNetworks.ipynb
+
+  #PyTorch.ipynb
+
+# Assignment_3
+  #RNN_Captioning.ipynb
+
+  #LSTM_Captioning.ipynb
