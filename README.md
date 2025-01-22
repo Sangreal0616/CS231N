@@ -29,3 +29,5 @@
   #LSTM_Captioning.ipynb
 
   #Generative_Adversarial_Networks.ipynb
+
+  #Self_Supervised_Learning.ipynb
